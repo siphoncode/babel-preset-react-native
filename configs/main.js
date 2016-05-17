@@ -20,6 +20,7 @@ module.exports = {
     'transform-class-properties',
     'transform-es2015-arrow-functions',
     'transform-es2015-block-scoping',
+    'transform-decorators-legacy',
     'transform-es2015-classes',
     'transform-es2015-computed-properties',
     'transform-es2015-constants',

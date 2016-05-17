@@ -10,6 +10,7 @@
 
 module.exports = {
   'babel-plugin-react-transform': require('babel-plugin-react-transform'),
+  'babel-plugin-transform-decorators-legacy': require('babel-plugin-transform-decorators-legacy'),
   'babel-plugin-syntax-async-functions': require('babel-plugin-syntax-async-functions'),
   'babel-plugin-syntax-class-properties': require('babel-plugin-syntax-class-properties'),
   'babel-plugin-syntax-trailing-function-commas': require('babel-plugin-syntax-trailing-function-commas'),
